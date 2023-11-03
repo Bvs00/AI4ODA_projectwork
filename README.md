@@ -3,7 +3,9 @@ The aim of this project is identify bio-markers that allow to distinguish the ev
 We have 2 different dataset: 
 - Lipodomica
 - Metabolomica
-and we have 3 several class of patient:
+
+
+We have 3 several class of patient:
 - hepatic carcinoma
 - positive HCV
 - chronic HCV
