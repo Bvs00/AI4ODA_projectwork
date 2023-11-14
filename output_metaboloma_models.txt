@@ -1,0 +1,24 @@
+[
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 88.73239436619718
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 98.41
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 85.91549295774648
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 93.65
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 91.54929577464789
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 93.65
+            }
+        }
+    }
+]
