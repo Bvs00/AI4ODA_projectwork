@@ -2,7 +2,7 @@
     {
         "TIC-SUM": {
             "LogisticRegression_Validation": {
-                "BorderlineSMOTE": 88.73239436619718
+                "BorderlineSMOTE": 87.32394366197182
             },
             "LogisticRegression_Test": {
                 "BorderlineSMOTE": 98.41
@@ -14,10 +14,33 @@
                 "BorderlineSMOTE": 93.65
             },
             "RandomForests_Validation": {
-                "BorderlineSMOTE": 91.54929577464789
+                "BorderlineSMOTE": 92.95774647887323
             },
             "RandomForests_Test": {
                 "BorderlineSMOTE": 93.65
+            }
+        }
+    }
+][
+    {
+        "Median": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 83.09859154929578
+            },
+            "LogistcRegression_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 83.09859154929578
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 85.91549295774648
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 33.33
             }
         }
     }
