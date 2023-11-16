@@ -44,4 +44,27 @@
             }
         }
     }
+][
+    { "Questo è l'esempio con la normalizzazione prima della PCA"
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 92.95774647887323
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 98.41
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 97.1830985915493
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 42.86
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 90.14084507042253
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 90.48
+            }
+        }
+    }
 ]
