@@ -67,4 +67,27 @@
             }
         }
     }
+][ HO FATTO LA DIVISIONE TRAIN E TEST E CANCELLATO OUTLIER
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 86.95652173913044
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 96.83
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 88.40579710144928
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 98.41
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 91.30434782608695
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 100.0
+            }
+        }
+    }
 ]
