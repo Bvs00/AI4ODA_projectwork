@@ -67,7 +67,7 @@
             }
         }
     }
-][ HO FATTO LA DIVISIONE TRAIN E TEST E CANCELLATO OUTLIER
+][ TRAIN E TEST NON RANDOMICI
     {
         "TIC-SUM": {
             "LogisticRegression_Validation": {
