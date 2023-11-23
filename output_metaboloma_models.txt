@@ -113,4 +113,27 @@
             }
         }
     }
+][ RISULTATI OTTENUTI CON LE SOLE FEATURES PIù IMPORTANTI
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 97.10144927536231
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 95.24
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 95.65217391304348
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 96.83
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 92.7536231884058
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 100.0
+            }
+        }
+    }
 ]
