@@ -90,4 +90,27 @@
             }
         }
     }
+][ HO FATTO UNA CORRETTA DIVISIONE TRAIN TEST da ora in poi provo con i diversi modelli
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 85.71428571428571
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 95.24
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 91.42857142857143
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 96.83
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 87.14285714285714
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 98.41
+            }
+        }
+    }
 ]
