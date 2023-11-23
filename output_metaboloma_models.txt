@@ -90,7 +90,7 @@
             }
         }
     }
-][ HO FATTO UNA CORRETTA DIVISIONE TRAIN TEST da ora in poi provo con i diversi modelli
+][ HO FATTO UNA CORRETTA DIVISIONE TRAIN TEST
     {
         "TIC-SUM": {
             "LogisticRegression_Validation": {
