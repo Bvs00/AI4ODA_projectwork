@@ -1,0 +1,32 @@
+[
+    {
+        "Logistic Regression": {
+            "Validation": {
+                "BorderlineSMOTE": 83.09859154929578
+            },
+            "Test": {
+                "BorderlineSMOTE": 39.68
+            }
+        }
+    },
+    {
+        "SVM": {
+            "Validation": {
+                "BorderlineSMOTE": 78.87323943661971
+            },
+            "Test": {
+                "BorderlineSMOTE": 65.08
+            }
+        }
+    },
+    {
+        "Random Forests": {
+            "Validation": {
+                "BorderlineSMOTE": 78.87323943661971
+            },
+            "Test": {
+                "BorderlineSMOTE": 66.67
+            }
+        }
+    }
+]
