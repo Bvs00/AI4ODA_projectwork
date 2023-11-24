@@ -29,4 +29,35 @@
             }
         }
     }
+][ MOST IMPORTANT FEATURES
+    {
+        "Logistic Regression": {
+            "Validation": {
+                "BorderlineSMOTE": 81.69014084507042
+            },
+            "Test": {
+                "BorderlineSMOTE": 60.32
+            }
+        }
+    },
+    {
+        "SVM": {
+            "Validation": {
+                "BorderlineSMOTE": 80.28169014084507
+            },
+            "Test": {
+                "BorderlineSMOTE": 47.62
+            }
+        }
+    },
+    {
+        "Random Forests": {
+            "Validation": {
+                "BorderlineSMOTE": 90.14084507042253
+            },
+            "Test": {
+                "BorderlineSMOTE": 66.67
+            }
+        }
+    }
 ]
