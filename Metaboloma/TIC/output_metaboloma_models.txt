@@ -1,0 +1,47 @@
+[ FIND MODEL
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 96.83
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 91.42857142857143
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 96.83
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 87.14285714285714
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 98.41
+            }
+        }
+    }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 95.24
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 90.48
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 100.0
+            }
+        }
+    }
+]

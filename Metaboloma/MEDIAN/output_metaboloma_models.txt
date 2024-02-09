@@ -1,0 +1,70 @@
+[
+    {
+        "Median": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 81.69014084507042
+            },
+            "LogistcRegression_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 84.50704225352112
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 85.91549295774648
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 33.33
+            }
+        }
+    }
+][
+    {
+        "Median": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 84.50704225352112
+            },
+            "LogistcRegression_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 87.32394366197182
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 85.91549295774648
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 33.33
+            }
+        }
+    }
+][
+    {
+        "Median": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 84.50704225352112
+            },
+            "LogistcRegression_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 87.32394366197182
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 33.33
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 85.91549295774648
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 33.33
+            }
+        }
+    }
+]
