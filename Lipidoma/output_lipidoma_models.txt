@@ -5,7 +5,7 @@
                 "BorderlineSMOTE": 83.09859154929578
             },
             "Test": {
-                "BorderlineSMOTE": 39.68
+                "BorderlineSMOTE": 33.33
             }
         }
     },
@@ -15,48 +15,48 @@
                 "BorderlineSMOTE": 78.87323943661971
             },
             "Test": {
-                "BorderlineSMOTE": 65.08
+                "BorderlineSMOTE": 33.33
             }
         }
     },
     {
         "Random Forests": {
             "Validation": {
-                "BorderlineSMOTE": 78.87323943661971
+                "BorderlineSMOTE": 80.28169014084507
             },
             "Test": {
                 "BorderlineSMOTE": 66.67
             }
         }
     }
-][ MOST IMPORTANT FEATURES
+][
     {
         "Logistic Regression": {
             "Validation": {
-                "BorderlineSMOTE": 81.69014084507042
+                "BorderlineSMOTE": 74.64788732394366
             },
             "Test": {
-                "BorderlineSMOTE": 60.32
+                "BorderlineSMOTE": 82.54
             }
         }
     },
     {
         "SVM": {
             "Validation": {
-                "BorderlineSMOTE": 80.28169014084507
+                "BorderlineSMOTE": 74.64788732394366
             },
             "Test": {
-                "BorderlineSMOTE": 47.62
+                "BorderlineSMOTE": 66.67
             }
         }
     },
     {
         "Random Forests": {
             "Validation": {
-                "BorderlineSMOTE": 90.14084507042253
+                "BorderlineSMOTE": 85.91549295774648
             },
             "Test": {
-                "BorderlineSMOTE": 66.67
+                "BorderlineSMOTE": 74.6
             }
         }
     }
