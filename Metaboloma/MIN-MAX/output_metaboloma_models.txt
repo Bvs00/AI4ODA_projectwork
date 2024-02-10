@@ -90,4 +90,27 @@
             }
         }
     }
+][
+    {
+        "MIN-MAX": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 88.73239436619718
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 100.0
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 90.14084507042253
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 100.0
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 88.73239436619718
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 100.0
+            }
+        }
+    }
 ]
