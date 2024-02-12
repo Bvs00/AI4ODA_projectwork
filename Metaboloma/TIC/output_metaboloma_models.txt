@@ -90,4 +90,50 @@
             }
         }
     }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 85.91549295774648
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 95.24
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 94.36619718309859
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 93.65
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 91.54929577464789
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 98.41
+            }
+        }
+    }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 95.24
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 90.48
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 100.0
+            }
+        }
+    }
 ]

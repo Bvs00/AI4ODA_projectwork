@@ -91,4 +91,66 @@
             }
         }
     }
+][
+    {
+        "Logistic Regression": {
+            "Validation": {
+                "BorderlineSMOTE": 74.64788732394366
+            },
+            "Test": {
+                "BorderlineSMOTE": 82.54
+            }
+        }
+    },
+    {
+        "SVM": {
+            "Validation": {
+                "BorderlineSMOTE": 74.64788732394366
+            },
+            "Test": {
+                "BorderlineSMOTE": 66.67
+            }
+        }
+    },
+    {
+        "Random Forests": {
+            "Validation": {
+                "BorderlineSMOTE": 85.91549295774648
+            },
+            "Test": {
+                "BorderlineSMOTE": 74.6
+            }
+        }
+    }
+][
+    {
+        "Logistic Regression": {
+            "Validation": {
+                "BorderlineSMOTE": 83.09859154929578
+            },
+            "Test": {
+                "BorderlineSMOTE": 33.33
+            }
+        }
+    },
+    {
+        "SVM": {
+            "Validation": {
+                "BorderlineSMOTE": 78.87323943661971
+            },
+            "Test": {
+                "BorderlineSMOTE": 33.33
+            }
+        }
+    },
+    {
+        "Random Forests": {
+            "Validation": {
+                "BorderlineSMOTE": 80.28169014084507
+            },
+            "Test": {
+                "BorderlineSMOTE": 66.67
+            }
+        }
+    }
 ]
