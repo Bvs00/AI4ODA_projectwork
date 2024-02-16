@@ -136,4 +136,142 @@
             }
         }
     }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 95.24
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 90.48
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 100.0
+            }
+        }
+    }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 89.65517241379311
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 66.67
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 89.65517241379311
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 87.04
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 94.82758620689656
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 72.22
+            }
+        }
+    }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 92.1875
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 82.46
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 90.625
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 84.21
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 89.0625
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 70.76
+            }
+        }
+    }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 92.1875
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 84.21
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 89.0625
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 85.96
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 89.0625
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 74.27
+            }
+        }
+    }
+][ ISOLATION FOREST
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 92.1875
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 84.21
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 89.0625
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 85.96
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 89.0625
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 74.27
+            }
+        }
+    }
+][
+    {
+        "TIC-SUM": {
+            "LogisticRegression_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "LogisticRegression_Test": {
+                "BorderlineSMOTE": 95.24
+            },
+            "SVM_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "SVM_Test": {
+                "BorderlineSMOTE": 90.48
+            },
+            "RandomForests_Validation": {
+                "BorderlineSMOTE": 88.57142857142857
+            },
+            "RandomForests_Test": {
+                "BorderlineSMOTE": 100.0
+            }
+        }
+    }
 ]
